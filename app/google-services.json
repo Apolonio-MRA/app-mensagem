@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "461682530698",
+    "project_id": "menssager-e3bf4",
+    "storage_bucket": "menssager-e3bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461682530698:android:06ef119d08f78a8b11d073",
+        "android_client_info": {
+          "package_name": "com.moises.menssager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461682530698-nfjvh8ddrvkolorhlgufioq726kc2lln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBb1IPSRhNWOsaLLLq_qxNRm6Kt5C_SOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461682530698-nfjvh8ddrvkolorhlgufioq726kc2lln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461682530698:android:6a1bc09a3c2e483c11d073",
+        "android_client_info": {
+          "package_name": "com.moises.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461682530698-nfjvh8ddrvkolorhlgufioq726kc2lln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBb1IPSRhNWOsaLLLq_qxNRm6Kt5C_SOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461682530698-nfjvh8ddrvkolorhlgufioq726kc2lln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
